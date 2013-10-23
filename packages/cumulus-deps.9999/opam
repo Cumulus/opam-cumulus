@@ -11,3 +11,4 @@ depends: [
   "sqlite3-ocaml"
   "oasis" {>= "9999"}
 ]
+ocaml-version: [>= "4.01.0"]
