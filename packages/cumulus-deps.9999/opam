@@ -1,0 +1,13 @@
+opam-version: "1"
+maintainer: "jp.deplaix@gmail.com"
+depends: [
+  "eliom" {>= "9999"}
+  "lwt" {>= "2.4"}
+  "safepass" {>= "1.2"}
+  "pgocaml" {>= "9999"}
+  "macaque" {>= "9999"}
+  "ocaml-markdown" {>= "0.1.1"}
+  "camomile"
+  "sqlite3-ocaml"
+  "oasis" {>= "9999"}
+]
