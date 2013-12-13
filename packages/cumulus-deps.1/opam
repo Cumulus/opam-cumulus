@@ -9,6 +9,6 @@ depends: [
   "ocaml-markdown" {>= "0.1.1"}
   "camomile"
   "sqlite3-ocaml"
-  "oasis" {>= "9999"}
+  "oasis" {>= "0.4.0"}
 ]
 ocaml-version: [>= "4.01.0"]
