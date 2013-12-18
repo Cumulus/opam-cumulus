@@ -8,4 +8,4 @@ build: [
 remove: [
   ["ocamlfind" "remove" "macaque"]
 ]
-depends: ["ocamlfind" "pgocaml"]
+depends: ["ocamlfind" "pgocaml" "oasis"]
