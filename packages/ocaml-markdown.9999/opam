@@ -1,0 +1,13 @@
+opam-version: "1"
+maintainer: "jp.deplaix@gmail.com"
+build: [
+  ["./configure" "--prefix" prefix]
+  [make]
+  [make "install"]
+]
+remove: [["ocamlfind" "remove" "markdown"]]
+depends: [
+  "ocamlfind"
+  "batteries" {>= "2.0"}
+  "tyxml"
+]

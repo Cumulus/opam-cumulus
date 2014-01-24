@@ -6,7 +6,7 @@ depends: [
   "safepass" {>= "1.2"}
   "pgocaml" {>= "9999"}
   "macaque" {>= "9999"}
-  "ocaml-markdown" {>= "0.1.1"}
+  "ocaml-markdown" {>= "9999"}
   "camomile"
   "sqlite3-ocaml"
   "oasis" {>= "0.4.0"}
