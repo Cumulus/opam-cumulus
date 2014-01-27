@@ -10,4 +10,5 @@ depends: [
   "ocamlfind"
   "batteries" {>= "2.0"}
   "tyxml"
+  "oasis"
 ]
