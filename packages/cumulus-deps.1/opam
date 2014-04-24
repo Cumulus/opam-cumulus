@@ -8,7 +8,7 @@ depends: [
   "macaque" {>= "9999"}
   "ocaml-markdown" {>= "9999"}
   "camomile"
-  "sqlite3-ocaml"
-  "oasis" {>= "0.4.0"}
+  "dbm"
+  "oasis" {>= "0.4.4"}
 ]
 ocaml-version: [>= "4.01.0"]
