@@ -4,11 +4,12 @@ depends: [
   "eliom" {>= "4.0"}
   "lwt" {>= "2.4"}
   "safepass" {>= "1.2"}
-  "pgocaml" {>= "9999"}
+  "pgocaml" {>= "2.0"}
   "macaque" {>= "9999"}
   "ocaml-markdown" {>= "9999"}
   "camomile"
   "dbm"
+  "batteries" {>= "2.2"}
   "oasis" {>= "0.4.5"}
 ]
 ocaml-version: [>= "4.01.0"]
