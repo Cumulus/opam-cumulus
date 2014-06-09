@@ -10,6 +10,5 @@ depends: [
   "camomile"
   "dbm"
   "batteries" {>= "2.2"}
-  "oasis" {>= "0.4.5"}
 ]
 ocaml-version: [>= "4.01.0"]
