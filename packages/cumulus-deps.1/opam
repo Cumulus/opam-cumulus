@@ -1,7 +1,7 @@
 opam-version: "1"
 maintainer: "jp.deplaix@gmail.com"
 depends: [
-  "eliom" {>= "4.0"}
+  "eliom" {>= "9990"}
   "lwt" {>= "2.4"}
   "safepass" {>= "1.2"}
   "pgocaml" {>= "2.0"}
