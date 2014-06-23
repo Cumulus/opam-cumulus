@@ -10,6 +10,7 @@ build: [
 remove: [["ocamlfind" "remove" "conduit"]]
 depends: [
   "ocamlfind"
+  "ipaddr"
   "sexplib" {>="109.15.00"}
 ]
 depopts: [

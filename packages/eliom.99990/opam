@@ -7,7 +7,7 @@ depends: [
   "deriving" {>= "0.6"}
   "js_of_ocaml" {>= "2.2"}
   "calendar"
-  "ocsigenserver" {>= "9999"}
+  "ocsigenserver" {>= "99990"}
   "ipaddr" {>= "2.1"}
   "reactiveData"
 ]
