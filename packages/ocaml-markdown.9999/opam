@@ -9,6 +9,6 @@ remove: [["ocamlfind" "remove" "markdown"]]
 depends: [
   "ocamlfind"
   "batteries" {>= "2.0"}
-  "tyxml"
+  "tyxml" {>= "3.0"}
   "oasis"
 ]
